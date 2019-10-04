@@ -1,1 +1,3 @@
 Name: Vo Thi To Nhu
+Age: 22
+Name of school: Da Nang University of Science and Education
